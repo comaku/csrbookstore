@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CSR Book Store</title>
+  <link rel="stylesheet" href="book.css" />
+</head>
+<body class="fade-in">
+
+
+  <header class="header">
+    <h1 class="logo-title">
+      <img src="tt.png" alt="Logo" class="logo-img">
+      CSR Book Store
+    </h1>
+
+    <!-- Hamburger Menu Button -->
+    <button class="hamburger" id="hamburger">&#9776;</button>
+
+    <!-- Navigation Bar -->
+    <nav class="nav-links" id="navLinks">
+      <a href="index.html">Books</a>
+      <a href="game.html">Game</a>
+      <a href="join.html">Join Us</a>
+      <a href="quiz.html">Scholarship</a>
+    </nav>
+
+    <input type="text" id="search" placeholder="Search for a book..." />
+    <select id="categoryFilter">
+      <option value="All">All Categories</option>
+      <option value="Physical">Physical</option>
+      <option value="Online">Online</option>
+      <option value="Self-help">Written Books</option>
+    </select>
+
+    <select id="subcategoryFilter">
+      <option value="All">All Subcategories</option>
+    </select>
+  </header>
+
+  <main class="main-content">
+    <section id="book-list" class="book-grid"></section>
+  </main>
+
+  <footer class="footer">
+    <button id="rent-button" class="rent-btn">📦 Rent Selected Books</button>
+  </footer>
+
+  <!-- Book Detail Modal -->
+  <div id="bookModal" class="modal">
+    <div class="modal-content">
+      <span class="close-btn">&times;</span>
+      <img id="modalCover" src="" alt="Book Cover" />
+      <h2 id="modalTitle"></h2>
+      <p id="modalDescription"></p>
+      <button id="modalRentBtn">Rent</button>
+    </div>
+  </div>
+
+  <div id="modalBtnContainer"></div>
+
+
+  <script>
+    // Toggle nav visibility on mobile
+    document.getElementById("hamburger").addEventListener("click", function () {
+      document.getElementById("navLinks").classList.toggle("show");
+    });
+  </script>
+
+  <script src="book.js"></script>
+</body>
+</html>
