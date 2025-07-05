@@ -10,7 +10,7 @@ const books = [
   },
   {
     title: "Awesome Egyptians",
-    cover: "b2.jpg",
+    cover: "https://drive.google.com/uc?export=view&id=168YdPcUfUw38kL4kETnMQJtG4NY2AnXj",
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
