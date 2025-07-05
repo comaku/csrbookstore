@@ -1,7 +1,7 @@
 const books = [
   {
     title: "Horrible Histories",
-    cover: "b1.jpg",
+    cover: "https://drive.google.com/uc?export=view&id=10nykBXQeSlsu7AqF9SsD1TdECcwRwRkz",
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
