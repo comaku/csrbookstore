@@ -178,6 +178,30 @@ const books = [
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
   },
+{
+    title: "Bursting Bubbles",
+    cover: "20250820_155044.jpg",
+    category: "Physical",
+    subcategory: "Productivity",
+    description: "A guide to building good habits and breaking bad ones.",
+    rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
+  },
+  {
+    title: "Bursting Bubbles",
+    cover: "20250820_155103.jpg",
+    category: "Physical",
+    subcategory: "Productivity",
+    description: "A guide to building good habits and breaking bad ones.",
+    rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
+  },
+ {
+    title: "Bursting Bubbles",
+    cover: "20250820_155118.jpg",
+    category: "Physical",
+    subcategory: "Productivity",
+    description: "A guide to building good habits and breaking bad ones.",
+    rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
+  }, 
 
   {
     title: "Romeo & Juliet",
@@ -305,6 +329,7 @@ window.onclick = (e) => {
 };
 
 displayBooks(books);
+
 
 
 
