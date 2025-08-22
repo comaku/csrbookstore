@@ -87,7 +87,7 @@ const books = [
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
   },{
     title: "The Third Pig Dectective Agency",
-    cover: "b13 (1).jpg",
+    cover: "b13 (2).jpg",
     category: "Physical",
     subcategory: "Youth",
     description: "A guide to building good habits and breaking bad ones.",
@@ -329,6 +329,7 @@ window.onclick = (e) => {
 };
 
 displayBooks(books);
+
 
 
 
