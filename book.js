@@ -5,7 +5,7 @@ const books = [
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
-    rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header",
+    rentLink:"b1 (1).jpg ",
     
   },
   {
@@ -305,3 +305,4 @@ window.onclick = (e) => {
 };
 
 displayBooks(books);
+
