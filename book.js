@@ -179,7 +179,7 @@ const books = [
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
   },
 {
-    title: "Bursting Bubbles",
+    title: "French Dictionary",
     cover: "20250820_155044.jpg",
     category: "Physical",
     subcategory: "Productivity",
@@ -187,7 +187,7 @@ const books = [
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
   },
   {
-    title: "Bursting Bubbles",
+    title: "Oxford Dictionary",
     cover: "20250820_155103.jpg",
     category: "Physical",
     subcategory: "Productivity",
@@ -195,7 +195,7 @@ const books = [
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
   },
  {
-    title: "Bursting Bubbles",
+    title: "Bescherelle",
     cover: "20250820_155118.jpg",
     category: "Physical",
     subcategory: "Productivity",
@@ -329,6 +329,7 @@ window.onclick = (e) => {
 };
 
 displayBooks(books);
+
 
 
 
