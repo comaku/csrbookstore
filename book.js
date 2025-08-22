@@ -1,7 +1,7 @@
 const books = [
   {
     title: "Horrible Histories",
-    cover: "b1 (1).jpg",
+    cover: "b1 (2).jpg",
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
@@ -305,5 +305,6 @@ window.onclick = (e) => {
 };
 
 displayBooks(books);
+
 
 
