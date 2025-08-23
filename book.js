@@ -351,3 +351,7 @@ window.onclick = (e) => {
 };
 
 // ✅ Sort and display alphabetically
+
+books.sort((a, b) => a.title.localeCompare(b.title));
+
+
