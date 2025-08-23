@@ -6,7 +6,6 @@ const books = [
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink:"https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header ",
-    
   },
   {
     title: "Awesome Egyptians",
@@ -15,126 +14,144 @@ const books = [
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Things Fall Apart",
     cover: "b3 (1).jpg",
     category: "Physical",
     subcategory: "Youth",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Terry Pratchet",
     cover: "b4 (1).jpg",
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Middle School- Get Me Out Of Here",
     cover: "b5 (2).jpg",
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Tom Gates Extra Special Treats",
     cover: "b6 (2).jpg",
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Tooth And Claw",
     cover: "b7 (2).jpg",
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Four Children and IT",
     cover: "b8 (3).jpg",
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "The Taming Of The Tights",
     cover: "b9 (1).jpg",
     category: "Physical",
     subcategory: "Youth",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Shoutykid",
     cover: "b10 (1).jpg",
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Middle School- The Worst Year Of My Life",
     cover: "b11 (1).jpg",
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Me SuzyP",
     cover: "b12 (1).jpg",
     category: "Physical",
     subcategory: "Youth",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "The Third Pig Dectective Agency",
     cover: "b13 (2).jpg",
     category: "Physical",
     subcategory: "Youth",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Bursting Bubbles",
     cover: "b14 (1).jpg",
     category: "Physical",
     subcategory: "Youth",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Kick",
     cover: "b15 (1).jpg",
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Noughts & Crosses",
     cover: "b16 (3).jpg",
     category: "Physical",
     subcategory: "Youth",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Holly Smale",
     cover: "b17 (2).jpg",
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "The Davinic Code",
     cover: "b18 (1).jpg",
     category: "Physical",
     subcategory: "Youth",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "An Abundance of Katherines",
     cover: "b19 (1).jpg",
     category: "Physical",
     subcategory: "Teens",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Someone Like You",
     cover: "b20 (1).jpg",
     category: "Physical",
@@ -149,28 +166,32 @@ const books = [
     subcategory: "Youth",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "A Guy's Guide To Life ",
     cover: "b22 (1).jpg",
     category: "Physical",
     subcategory: "Productivity",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "Jane Eyre",
     cover: "b23 (1).jpg",
     category: "Physical",
     subcategory: "Youth",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "After Iris",
     cover: "b24 (1).jpg",
     category: "Physical",
     subcategory: "Youth",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  },{
+  },
+  {
     title: "The Boy In The Striped Pyjamas",
     cover: "b25 (2).jpg",
     category: "Physical",
@@ -178,7 +199,7 @@ const books = [
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
   },
-{
+  {
     title: "French Dictionary",
     cover: "20250820_155044.jpg",
     category: "Physical",
@@ -194,15 +215,14 @@ const books = [
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
   },
- {
+  {
     title: "Bescherelle",
     cover: "20250820_155118.jpg",
     category: "Physical",
     subcategory: "Productivity",
     description: "A guide to building good habits and breaking bad ones.",
     rentLink: "https://docs.google.com/forms/d/e/1FAIpQLSdPVKDERSVaO2MjSQR1P1LTDI6jxm-vN-xKcl0pShinoda1Yw/viewform?usp=header"
-  }, 
-
+  },
   {
     title: "Romeo & Juliet",
     cover: "rom.jpg",
@@ -219,7 +239,6 @@ const books = [
     description: "Insights on financial literacy and investing.",
     downloadLink: "the-time-machine.pdf"
   },
-  
   {
     title: "The Notebook",
     cover: "https://covers.openlibrary.org/b/id/9253691-L.jpg",
@@ -230,7 +249,6 @@ const books = [
   }
 ];
 
-
 const bookList = document.getElementById("book-list");
 const searchInput = document.getElementById("search");
 const categoryFilter = document.getElementById("categoryFilter");
@@ -239,7 +257,11 @@ const modal = document.getElementById("bookModal");
 
 function displayBooks(bookArray) {
   bookList.innerHTML = "";
-  bookArray.forEach(book => {
+
+  // Always sort alphabetically before displaying
+  const sortedBooks = [...bookArray].sort((a, b) => a.title.localeCompare(b.title));
+
+  sortedBooks.forEach(book => {
     const card = document.createElement("div");
     card.className = "book-card";
 
@@ -328,10 +350,4 @@ window.onclick = (e) => {
   if (e.target === modal) modal.style.display = "none";
 };
 
-displayBooks(books);
-
-
-
-
-
-
+// ✅ Sort and display alphabetically
